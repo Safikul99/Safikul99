@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**Safikul99/Safikul99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yo, I'm a Java Dev based in India. My playground? Web-Services, Microservices, and Spring Security. Check out some of my top-notch work that I've got pinned right here for you to explore. 😄🚀**
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajumb0232&label=Profile%20views&color=0e75b6&style=flat" alt="rajumb0232" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+⚙️ **Backend:**
+&nbsp;Java&nbsp; | &nbsp;Hibernate&nbsp; | &nbsp;Spring&nbsp; | &nbsp;Spring Boot&nbsp; | &nbsp;Spring Security&nbsp; | &nbsp;JWT&nbsp; 
+
+⛺️ **Frontend:** 
+&nbsp;HTML5&nbsp; | &nbsp;CSS3&nbsp; | &nbsp;Tailwind CSS&nbsp; | &nbsp;JavaScript&nbsp; | &nbsp;ReactJS&nbsp; | &nbsp;React Router Dom&nbsp; 
+
+📁 **Database:**
+&nbsp;MySQL&nbsp; | &nbsp;MongoDB&nbsp; | &nbsp;PostgreSQL&nbsp; 
+
+🧰 **Tools:**
+&nbsp;Git & GitHub&nbsp; | &nbsp;Postman&nbsp; | &nbsp;Postman&nbsp; | &nbsp;Eclipse IDE&nbsp; | &nbsp;Spring Tool Suite&nbsp; | &nbsp;IntelliJ IDEA&nbsp; | &nbsp;VS Code&nbsp;
+
+---
+<a href="https://github.com/rajumb0232"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajumb0232&theme=tokyonight&hide_border=true"></a>
+<a href="https://github.com/rajumb0232"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajumb0232&theme=tokyonight&hide_border=true"></a> 
+<br />
+<br />
+<a href="https://github.com/rajumb0232"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajumb0232&theme=tokyonight&hide_border=true"></a>
