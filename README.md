@@ -17,8 +17,8 @@
 &nbsp;Git & GitHub&nbsp; | &nbsp;Postman&nbsp; | &nbsp;Postman&nbsp; | &nbsp;Eclipse IDE&nbsp; | &nbsp;Spring Tool Suite&nbsp; | &nbsp;IntelliJ IDEA&nbsp; | &nbsp;VS Code&nbsp;
 
 ---
-<a href="https://github.com/rajumb0232"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajumb0232&theme=tokyonight&hide_border=true"></a>
-<a href="https://github.com/rajumb0232"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajumb0232&theme=tokyonight&hide_border=true"></a> 
+<a href="https://github.com/Safikul99"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safikul99&theme=tokyonight&hide_border=true"></a>
+<a href="https://github.com/Safikul99"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safikul99&theme=tokyonight&hide_border=true"></a> 
 <br />
 <br />
-<a href="https://github.com/rajumb0232"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajumb0232&theme=tokyonight&hide_border=true"></a>
+<a href="https://github.com/Safikul99"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Safikul99&theme=tokyonight&hide_border=true"></a>
