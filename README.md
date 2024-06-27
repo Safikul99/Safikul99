@@ -22,3 +22,5 @@
 <br />
 <br />
 <a href="https://github.com/Safikul99"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Safikul99&theme=tokyonight&hide_border=true"></a>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Safikul Islam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/safikul6564) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Safikul islam) 
