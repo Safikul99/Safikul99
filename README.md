@@ -1,7 +1,7 @@
 
 **Yo, I'm a Java Dev based in India. My playground? Web-Services, Microservices, and Spring Security. Check out some of my top-notch work that I've got pinned right here for you to explore. 😄🚀**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajumb0232&label=Profile%20views&color=0e75b6&style=flat" alt="rajumb0232" /> </p>
+<p align="left"> <img src="https://github.com/Safikul99/Safikul99/blob/main/github-header-image%20(1).png" alt="safikul" /> </p>
 
 ---
 ⚙️ **Backend:**
